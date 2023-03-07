@@ -1,3 +1,3 @@
-                # Student Liberation Front
+# Student Liberation Front
                 
-         Welcome to the Student Liberation Front. 
+Welcome to the Student Liberation Front. 
